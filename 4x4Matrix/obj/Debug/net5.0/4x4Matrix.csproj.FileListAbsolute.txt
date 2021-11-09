@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\PROJECTS\4x4Matrix\4x4Matrix\bin\Debug\net5.0\4x4Matrix.exe
+C:\Users\User\Desktop\PROJECTS\4x4Matrix\4x4Matrix\bin\Debug\net5.0\4x4Matrix.deps.json
+C:\Users\User\Desktop\PROJECTS\4x4Matrix\4x4Matrix\bin\Debug\net5.0\4x4Matrix.runtimeconfig.json
+C:\Users\User\Desktop\PROJECTS\4x4Matrix\4x4Matrix\bin\Debug\net5.0\4x4Matrix.runtimeconfig.dev.json
+C:\Users\User\Desktop\PROJECTS\4x4Matrix\4x4Matrix\bin\Debug\net5.0\4x4Matrix.dll
+C:\Users\User\Desktop\PROJECTS\4x4Matrix\4x4Matrix\bin\Debug\net5.0\ref\4x4Matrix.dll
+C:\Users\User\Desktop\PROJECTS\4x4Matrix\4x4Matrix\bin\Debug\net5.0\4x4Matrix.pdb
+C:\Users\User\Desktop\PROJECTS\4x4Matrix\4x4Matrix\obj\Debug\net5.0\4x4Matrix.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\PROJECTS\4x4Matrix\4x4Matrix\obj\Debug\net5.0\4x4Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\PROJECTS\4x4Matrix\4x4Matrix\obj\Debug\net5.0\4x4Matrix.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\PROJECTS\4x4Matrix\4x4Matrix\obj\Debug\net5.0\4x4Matrix.AssemblyInfo.cs
+C:\Users\User\Desktop\PROJECTS\4x4Matrix\4x4Matrix\obj\Debug\net5.0\4x4Matrix.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PROJECTS\4x4Matrix\4x4Matrix\obj\Debug\net5.0\4x4Matrix.dll
+C:\Users\User\Desktop\PROJECTS\4x4Matrix\4x4Matrix\obj\Debug\net5.0\ref\4x4Matrix.dll
+C:\Users\User\Desktop\PROJECTS\4x4Matrix\4x4Matrix\obj\Debug\net5.0\4x4Matrix.pdb
+C:\Users\User\Desktop\PROJECTS\4x4Matrix\4x4Matrix\obj\Debug\net5.0\4x4Matrix.genruntimeconfig.cache
